@@ -1,70 +1,171 @@
-# Getting Started with Create React App
+# Hello Rails react project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# 📗 Table of Contents
 
-In the project directory, you can run:
+- [Hello Rails react project](#hello-rails-react-project)
+- [📗 Table of Contents](#-table-of-contents)
+- [Hello React Front end](#hello-react-front-end)
+  - [Built With](#built-with)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [Authors](#authors)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing](#-contributing)
+  - [Show your support](#show-your-support)
+  - [Acknowledgments](#acknowledgments)
+  - [📝 License](#-license)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Hello React Front end
 
-### `npm test`
+> This is the front end app setup using React. and have [hello-rails-back-end](https://github.com/jecode93/hello-rails-back-end) as the Back end.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Built With
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- Tailwind CSS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Tech Stack <a name="tech-stack"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> 
 
-### `npm run eject`
+<details>
+  <summary>Backend</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+  </ul>
+      <li><a href="https://guides.rubyonrails.org/">Ruby on Rails</a></li>
+  </ul>
+</details>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<details>
+<summary>Framework</summary>
+  <ul>
+    <li><a href="https://guides.rubyonrails.org/">React</a></li>
+  </ul>
+  <ul>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+</details>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgresSQL</a></li>
+  </ul>
+</details>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<details>
+<summary>CSS Framework</summary>
+  <ul>
+    <li><a href="https://tailwindcss.com/">Tailwind CSS</a></li>
+  </ul>
+</details>
 
-## Learn More
+### Key Features <a name="key-features"></a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+> Some useful features
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **[Front end with React]**
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<!-- LIVE DEMO -->
 
-### Analyzing the Bundle Size
+## Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+To get a local copy up and running follow these simple example steps.
 
-### Making a Progressive Web App
+### Prerequisites
+- Visual Studio Code must be installed on your computer | Download Visual Studio Code [VSCode](https://code.visualstudio.com/)
+- Git must be installed on your computer | Download [Git](https://git-scm.com/downloads)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Setup
+- Clone the repository
+- Open the project folder in Visual Studio Code
 
-### Advanced Configuration
+### Install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Install this project using:
+
+- cd project/directory
+- Git clone [Hello Rails React](https://github.com/jecode93/hello-react-front-end.git)
+
+### Usage
+
+To run the project, execute the following command:
+
+- Launch index.html file in your browser
+
+
+### Run tests
+
+To run tests, run the following command:
+
+- Rails server (In the command line)
+- Go to http://127.0.0.1:3000
+- Enjoy
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+You can deploy this project using:
 
-### `npm run build` fails to minify
+- [Netlify](https://www.netlify.com/)
+- [Render](https://pages.github.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Authors
+
+
+👤 **Jean Emmanuel Cadet**
+
+- GitHub: [@jecode93](https://github.com/jecode93)
+- Twitter: [@jecode93](https://twitter.com/jecode93)
+- LinkedIn: [jean-emmanuel-cadet](https://www.linkedin.com/in/jean-emmanuel-cadet/)
+
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Desktop version]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Thanks to the Microverse team for the great curriculum.
+- Thanks to the Code Reviewer(s) for the insightful feedback.
+- A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
