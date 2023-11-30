@@ -1,6 +1,6 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 
-const URL = '/api/v1/greetings';
+const URL = 'http://127.0.0.1:3000/api/v1/greetings';
 
 export const getRandomGreeting = createAsyncThunk(
   'greeting/getRandomGreeting',
